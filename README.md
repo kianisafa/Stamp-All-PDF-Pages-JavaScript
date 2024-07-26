@@ -101,19 +101,19 @@ for (var i = 0; i < this.numPages; i++) {
 }
 ```
 
-## 👨‍💻 Developer
-This guide and the associated code were developed by **Safa Kiani**. 💼
+
 
 ## 📝 Note
 This code has been tested only with **Adobe Acrobat**. ⚙️
 
-## 📬 Contact
-If you have any questions or need further information, please feel free to reach out:
+## Contact 📞
 
-- **GitHub**: [kianisafa](https://github.com/kianisafa)
-- **Email**: kianisafaa@gmail.com
-- **Telegram**: [kianisafa](https://t.me/+12363343330)
-- **Instagram**: [kianisafa](https://www.instagram.com/kianisafa/)
+- **Developer**: Safa Kiani
+- **Website**: [https://safakiani.com/](https://safakiani.com/)
+- **Instagram**: [https://www.instagram.com/kianisafa/](https://www.instagram.com/kianisafa/)
+- **Telegram**: [https://t.me/+12363343330](https://t.me/+12363343330)
+- **LinkedIn**: [https://www.linkedin.com/in/kianisafa/](https://www.linkedin.com/in/kianisafa/)
+- **Email**: [kianisafaa@gmail.com](mailto:kianisafaa@gmail.com)
 
 
 Thank you for using this guide! 😊
